@@ -1,0 +1,1 @@
+{"env": "LunarLanderContinuous-v2", "algo": "PPO", "total_timesteps": 1000, "n_saves": 1, "noise": 0.0, "rnd_action": 0.0, "save_path": "trained_agent/test", "test_steps": 1000, "test_traj_len": 200}

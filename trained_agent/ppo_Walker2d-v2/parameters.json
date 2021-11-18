@@ -1,0 +1,1 @@
+{"env": "Walker2d-v2", "algo": "PPO", "total_timesteps": 1000000, "n_saves": 1000, "noise": 0.0, "rnd_action": 0.0, "save_path": "trained_agent", "test_steps": 1000, "test_traj_len": 200}

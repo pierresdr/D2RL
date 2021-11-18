@@ -1,0 +1,1 @@
+{"env": "Pendulum-v0", "algo": "SAC", "total_timesteps": 50000, "n_saves": 100, "noise": 0.0, "rnd_action": 0.0, "save_path": "trained_agent", "test_steps": 1000, "test_traj_len": 200, "stoch_mdp_distrib": "LogNormal", "stoch_mdp_param": 0.1}
